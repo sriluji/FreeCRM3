@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="73340" started-at="2022-05-24T10:57:29 EDT" finished-at="2022-05-24T10:58:43 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="73340" started-at="2022-05-24T10:57:29 EDT" finished-at="2022-05-24T10:58:43 EDT">
+      <class name="com.qa.crm.Tests.ContactsPageTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.qa.crm.Tests.ContactsPageTest@3578436e]" name="SetUp" is-config="true" duration-ms="10663" started-at="2022-05-24T10:57:29 EDT" finished-at="2022-05-24T10:57:40 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="clickonCreatelinkTest()[pri:0, instance:com.qa.crm.Tests.ContactsPageTest@3578436e]" name="clickonCreatelinkTest" duration-ms="78" started-at="2022-05-24T10:57:40 EDT" finished-at="2022-05-24T10:57:40 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonCreatelinkTest -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:com.qa.crm.Tests.ContactsPageTest@3578436e]" name="Teardown" is-config="true" duration-ms="726" started-at="2022-05-24T10:57:40 EDT" finished-at="2022-05-24T10:57:41 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.qa.crm.Tests.ContactsPageTest@3578436e]" name="SetUp" is-config="true" duration-ms="8047" started-at="2022-05-24T10:57:41 EDT" finished-at="2022-05-24T10:57:49 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="createNewContactTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.qa.crm.Tests.ContactsPageTest@3578436e]" name="createNewContactTest" duration-ms="8188" started-at="2022-05-24T10:57:49 EDT" data-provider="getExcelTestData" finished-at="2022-05-24T10:57:58 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Marigold]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Haynes]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[12.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1989.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewContactTest -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:com.qa.crm.Tests.ContactsPageTest@3578436e]" name="Teardown" is-config="true" duration-ms="809" started-at="2022-05-24T10:57:58 EDT" finished-at="2022-05-24T10:57:58 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.qa.crm.Tests.ContactsPageTest@3578436e]" name="SetUp" is-config="true" duration-ms="8400" started-at="2022-05-24T10:57:58 EDT" finished-at="2022-05-24T10:58:07 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="createNewContactTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.qa.crm.Tests.ContactsPageTest@3578436e]" name="createNewContactTest" duration-ms="8278" started-at="2022-05-24T10:58:07 EDT" data-provider="getExcelTestData" finished-at="2022-05-24T10:58:15 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Tera]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Raj]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[15.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1999.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewContactTest -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:com.qa.crm.Tests.ContactsPageTest@3578436e]" name="Teardown" is-config="true" duration-ms="720" started-at="2022-05-24T10:58:15 EDT" finished-at="2022-05-24T10:58:16 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.qa.crm.Tests.ContactsPageTest@3578436e]" name="SetUp" is-config="true" duration-ms="8610" started-at="2022-05-24T10:58:16 EDT" finished-at="2022-05-24T10:58:24 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="createNewContactTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.qa.crm.Tests.ContactsPageTest@3578436e]" name="createNewContactTest" duration-ms="8175" started-at="2022-05-24T10:58:24 EDT" data-provider="getExcelTestData" finished-at="2022-05-24T10:58:33 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[David]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Hussey]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[21.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[1990.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewContactTest -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:com.qa.crm.Tests.ContactsPageTest@3578436e]" name="Teardown" is-config="true" duration-ms="729" started-at="2022-05-24T10:58:33 EDT" finished-at="2022-05-24T10:58:33 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.qa.crm.Tests.ContactsPageTest@3578436e]" name="SetUp" is-config="true" duration-ms="8380" started-at="2022-05-24T10:58:33 EDT" finished-at="2022-05-24T10:58:42 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="verifycontactstextTest()[pri:0, instance:com.qa.crm.Tests.ContactsPageTest@3578436e]" name="verifycontactstextTest" duration-ms="42" started-at="2022-05-24T10:58:42 EDT" finished-at="2022-05-24T10:58:42 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifycontactstextTest -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:com.qa.crm.Tests.ContactsPageTest@3578436e]" name="Teardown" is-config="true" duration-ms="783" started-at="2022-05-24T10:58:42 EDT" finished-at="2022-05-24T10:58:43 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- com.qa.crm.Tests.ContactsPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
